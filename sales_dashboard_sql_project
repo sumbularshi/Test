@@ -1,1 +1,6 @@
+📁 sales_dashboard_sql_project
+├── schema.sql          # for creating tables
+├── mock_data.sql       # to insert sample data
+├── queries.sql         # your actual insights/queries
+├── README.md           # for documentation (I'll help write this too)
 
